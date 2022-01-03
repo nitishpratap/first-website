@@ -1,0 +1,59 @@
+header>h1{
+    font-weight: 400;
+    }
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3rem;
+    
+}
+li{
+    list-style: none;
+    font-size: 1.5rem;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav{
+    position: relative;
+    top: 1rem;
+    width: 22rem;
+}
+
+    .showcase_img{
+        width: 95vw;
+        margin: 1rem;
+    }
+    article{
+        display: flex;
+    }
+    .container{
+        text-align:center;
+        margin: 2rem;
+        padding: 1.5rem;
+
+    }
+    p{
+        font-size: 1.5rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    footer{
+        margin: 1rem 2rem;
+        /* margin-right: 20px; */
+        background-color:black;
+        width: 100vw;
+        height: 6rem;
+        
+    }
+    .footer{
+        padding-top: 2rem;
+        text-align: center;
+        color: white;
+        font-size: 1.5rem;
+
+    }
+    a:hover{
+        color:tomato;
+    }
